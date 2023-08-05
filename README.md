@@ -1,4 +1,5 @@
 made by Dennis Ivy's tutorial
+<hr>
 check it out here http://marat94kz.pythonanywhere.com/
 
 <div align="center">
